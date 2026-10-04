@@ -1,13 +1,13 @@
 //
-//  StoaApp.swift
-//  Stoa
+//  UnshakenDailyStoicismApp.swift
+//  UnshakenDailyStoicism
 //
 
 import SwiftUI
 import RevenueCat
 
 @main
-struct StoaApp: App {
+struct UnshakenDailyStoicismApp: App {
     @State private var content = ContentStore()
     @State private var progress = ProgressStore()
     @State private var store = LifetimeStore()

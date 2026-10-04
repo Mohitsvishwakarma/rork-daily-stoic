@@ -1,10 +1,13 @@
 {
+  "$schema": "https://rork.com/schema/rork.json",
   "apps": [
     {
       "name": "Stoa",
       "path": "ios-stoa",
-      "framework": "swift"
+      "framework": "swift",
+      "settings": {
+        "displayName": "Unshaken: Daily Stoicism"
+      }
     }
-  ],
-  "$schema": "https://rork.com/schema/rork.json"
+  ]
 }

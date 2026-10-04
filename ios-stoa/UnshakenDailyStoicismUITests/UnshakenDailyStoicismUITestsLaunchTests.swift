@@ -1,13 +1,13 @@
 //
-//  StoaUITestsLaunchTests.swift
-//  StoaUITests
+//  UnshakenDailyStoicismUITestsLaunchTests.swift
+//  UnshakenDailyStoicismUITests
 //
 //  Created by Rork on September 28, 2026.
 //
 
 import XCTest
 
-final class StoaUITestsLaunchTests: XCTestCase {
+final class UnshakenDailyStoicismUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

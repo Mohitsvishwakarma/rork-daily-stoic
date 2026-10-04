@@ -16,37 +16,37 @@
 			containerPortal = 105FC5722E9EAD3100EA8BCF /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 105FC5792E9EAD3100EA8BCF;
-			remoteInfo = Stoa;
+			remoteInfo = UnshakenDailyStoicism;
 		};
 		105FC5942E9EAD3200EA8BCF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 105FC5722E9EAD3100EA8BCF /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 105FC5792E9EAD3100EA8BCF;
-			remoteInfo = Stoa;
+			remoteInfo = UnshakenDailyStoicism;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		105FC57A2E9EAD3100EA8BCF /* Stoa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Stoa.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		105FC5892E9EAD3200EA8BCF /* StoaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StoaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		105FC5932E9EAD3200EA8BCF /* StoaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StoaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		105FC57A2E9EAD3100EA8BCF /* UnshakenDailyStoicism.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UnshakenDailyStoicism.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		105FC5892E9EAD3200EA8BCF /* UnshakenDailyStoicismTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UnshakenDailyStoicismTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		105FC5932E9EAD3200EA8BCF /* UnshakenDailyStoicismUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UnshakenDailyStoicismUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		105FC57C2E9EAD3100EA8BCF /* Stoa */ = {
+		105FC57C2E9EAD3100EA8BCF /* UnshakenDailyStoicism */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Stoa;
+			path = UnshakenDailyStoicism;
 			sourceTree = "<group>";
 		};
-		105FC58C2E9EAD3200EA8BCF /* StoaTests */ = {
+		105FC58C2E9EAD3200EA8BCF /* UnshakenDailyStoicismTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = StoaTests;
+			path = UnshakenDailyStoicismTests;
 			sourceTree = "<group>";
 		};
-		105FC5962E9EAD3200EA8BCF /* StoaUITests */ = {
+		105FC5962E9EAD3200EA8BCF /* UnshakenDailyStoicismUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = StoaUITests;
+			path = UnshakenDailyStoicismUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -80,9 +80,9 @@
 		105FC5712E9EAD3100EA8BCF = {
 			isa = PBXGroup;
 			children = (
-				105FC57C2E9EAD3100EA8BCF /* Stoa */,
-				105FC58C2E9EAD3200EA8BCF /* StoaTests */,
-				105FC5962E9EAD3200EA8BCF /* StoaUITests */,
+				105FC57C2E9EAD3100EA8BCF /* UnshakenDailyStoicism */,
+				105FC58C2E9EAD3200EA8BCF /* UnshakenDailyStoicismTests */,
+				105FC5962E9EAD3200EA8BCF /* UnshakenDailyStoicismUITests */,
 				105FC57B2E9EAD3100EA8BCF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -90,9 +90,9 @@
 		105FC57B2E9EAD3100EA8BCF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				105FC57A2E9EAD3100EA8BCF /* Stoa.app */,
-				105FC5892E9EAD3200EA8BCF /* StoaTests.xctest */,
-				105FC5932E9EAD3200EA8BCF /* StoaUITests.xctest */,
+				105FC57A2E9EAD3100EA8BCF /* UnshakenDailyStoicism.app */,
+				105FC5892E9EAD3200EA8BCF /* UnshakenDailyStoicismTests.xctest */,
+				105FC5932E9EAD3200EA8BCF /* UnshakenDailyStoicismUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -100,9 +100,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		105FC5792E9EAD3100EA8BCF /* Stoa */ = {
+		105FC5792E9EAD3100EA8BCF /* UnshakenDailyStoicism */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 105FC59D2E9EAD3200EA8BCF /* Build configuration list for PBXNativeTarget "Stoa" */;
+			buildConfigurationList = 105FC59D2E9EAD3200EA8BCF /* Build configuration list for PBXNativeTarget "UnshakenDailyStoicism" */;
 			buildPhases = (
 				105FC5762E9EAD3100EA8BCF /* Sources */,
 				105FC5772E9EAD3100EA8BCF /* Frameworks */,
@@ -113,19 +113,19 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				105FC57C2E9EAD3100EA8BCF /* Stoa */,
+				105FC57C2E9EAD3100EA8BCF /* UnshakenDailyStoicism */,
 			);
-			name = Stoa;
+			name = UnshakenDailyStoicism;
 			packageProductDependencies = (
 				XX8F6E1A701EA04CDCEA3DXX /* RevenueCat */,
 			);
-			productName = Stoa;
-			productReference = 105FC57A2E9EAD3100EA8BCF /* Stoa.app */;
+			productName = UnshakenDailyStoicism;
+			productReference = 105FC57A2E9EAD3100EA8BCF /* UnshakenDailyStoicism.app */;
 			productType = "com.apple.product-type.application";
 		};
-		105FC5882E9EAD3200EA8BCF /* StoaTests */ = {
+		105FC5882E9EAD3200EA8BCF /* UnshakenDailyStoicismTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 105FC5A02E9EAD3200EA8BCF /* Build configuration list for PBXNativeTarget "StoaTests" */;
+			buildConfigurationList = 105FC5A02E9EAD3200EA8BCF /* Build configuration list for PBXNativeTarget "UnshakenDailyStoicismTests" */;
 			buildPhases = (
 				105FC5852E9EAD3200EA8BCF /* Sources */,
 				105FC5862E9EAD3200EA8BCF /* Frameworks */,
@@ -137,18 +137,18 @@
 				105FC58B2E9EAD3200EA8BCF /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				105FC58C2E9EAD3200EA8BCF /* StoaTests */,
+				105FC58C2E9EAD3200EA8BCF /* UnshakenDailyStoicismTests */,
 			);
-			name = StoaTests;
+			name = UnshakenDailyStoicismTests;
 			packageProductDependencies = (
 			);
-			productName = StoaTests;
-			productReference = 105FC5892E9EAD3200EA8BCF /* StoaTests.xctest */;
+			productName = UnshakenDailyStoicismTests;
+			productReference = 105FC5892E9EAD3200EA8BCF /* UnshakenDailyStoicismTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		105FC5922E9EAD3200EA8BCF /* StoaUITests */ = {
+		105FC5922E9EAD3200EA8BCF /* UnshakenDailyStoicismUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 105FC5A32E9EAD3200EA8BCF /* Build configuration list for PBXNativeTarget "StoaUITests" */;
+			buildConfigurationList = 105FC5A32E9EAD3200EA8BCF /* Build configuration list for PBXNativeTarget "UnshakenDailyStoicismUITests" */;
 			buildPhases = (
 				105FC58F2E9EAD3200EA8BCF /* Sources */,
 				105FC5902E9EAD3200EA8BCF /* Frameworks */,
@@ -160,13 +160,13 @@
 				105FC5952E9EAD3200EA8BCF /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				105FC5962E9EAD3200EA8BCF /* StoaUITests */,
+				105FC5962E9EAD3200EA8BCF /* UnshakenDailyStoicismUITests */,
 			);
-			name = StoaUITests;
+			name = UnshakenDailyStoicismUITests;
 			packageProductDependencies = (
 			);
-			productName = StoaUITests;
-			productReference = 105FC5932E9EAD3200EA8BCF /* StoaUITests.xctest */;
+			productName = UnshakenDailyStoicismUITests;
+			productReference = 105FC5932E9EAD3200EA8BCF /* UnshakenDailyStoicismUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -192,7 +192,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 105FC5752E9EAD3100EA8BCF /* Build configuration list for PBXProject "Stoa" */;
+			buildConfigurationList = 105FC5752E9EAD3100EA8BCF /* Build configuration list for PBXProject "UnshakenDailyStoicism" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -206,9 +206,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				105FC5792E9EAD3100EA8BCF /* Stoa */,
-				105FC5882E9EAD3200EA8BCF /* StoaTests */,
-				105FC5922E9EAD3200EA8BCF /* StoaUITests */,
+				105FC5792E9EAD3100EA8BCF /* UnshakenDailyStoicism */,
+				105FC5882E9EAD3200EA8BCF /* UnshakenDailyStoicismTests */,
+				105FC5922E9EAD3200EA8BCF /* UnshakenDailyStoicismUITests */,
 			);
 			packageReferences = (
 				XX56D7F10BAEE1D3529BF9XX /* XCRemoteSwiftPackageReference "purchases-ios-spm" */,
@@ -267,12 +267,12 @@
 /* Begin PBXTargetDependency section */
 		105FC58B2E9EAD3200EA8BCF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 105FC5792E9EAD3100EA8BCF /* Stoa */;
+			target = 105FC5792E9EAD3100EA8BCF /* UnshakenDailyStoicism */;
 			targetProxy = 105FC58A2E9EAD3200EA8BCF /* PBXContainerItemProxy */;
 		};
 		105FC5952E9EAD3200EA8BCF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 105FC5792E9EAD3100EA8BCF /* Stoa */;
+			target = 105FC5792E9EAD3100EA8BCF /* UnshakenDailyStoicism */;
 			targetProxy = 105FC5942E9EAD3200EA8BCF /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -409,7 +409,7 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = Unshaken;
+				INFOPLIST_KEY_CFBundleDisplayName = "Unshaken: Daily Stoicism";
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -443,7 +443,7 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = Unshaken;
+				INFOPLIST_KEY_CFBundleDisplayName = "Unshaken: Daily Stoicism";
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -485,7 +485,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Stoa.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Stoa";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UnshakenDailyStoicism.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/UnshakenDailyStoicism";
 			};
 			name = Debug;
 		};
@@ -507,7 +507,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Stoa.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Stoa";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UnshakenDailyStoicism.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/UnshakenDailyStoicism";
 			};
 			name = Release;
 		};
@@ -527,7 +527,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Stoa;
+				TEST_TARGET_NAME = UnshakenDailyStoicism;
 			};
 			name = Debug;
 		};
@@ -547,14 +547,14 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Stoa;
+				TEST_TARGET_NAME = UnshakenDailyStoicism;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		105FC5752E9EAD3100EA8BCF /* Build configuration list for PBXProject "Stoa" */ = {
+		105FC5752E9EAD3100EA8BCF /* Build configuration list for PBXProject "UnshakenDailyStoicism" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				105FC59B2E9EAD3200EA8BCF /* Debug */,
@@ -563,7 +563,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		105FC59D2E9EAD3200EA8BCF /* Build configuration list for PBXNativeTarget "Stoa" */ = {
+		105FC59D2E9EAD3200EA8BCF /* Build configuration list for PBXNativeTarget "UnshakenDailyStoicism" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				105FC59E2E9EAD3200EA8BCF /* Debug */,
@@ -572,7 +572,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		105FC5A02E9EAD3200EA8BCF /* Build configuration list for PBXNativeTarget "StoaTests" */ = {
+		105FC5A02E9EAD3200EA8BCF /* Build configuration list for PBXNativeTarget "UnshakenDailyStoicismTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				105FC5A12E9EAD3200EA8BCF /* Debug */,
@@ -581,7 +581,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		105FC5A32E9EAD3200EA8BCF /* Build configuration list for PBXNativeTarget "StoaUITests" */ = {
+		105FC5A32E9EAD3200EA8BCF /* Build configuration list for PBXNativeTarget "UnshakenDailyStoicismUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				105FC5A42E9EAD3200EA8BCF /* Debug */,

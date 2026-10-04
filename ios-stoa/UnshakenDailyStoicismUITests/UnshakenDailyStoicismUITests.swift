@@ -1,13 +1,13 @@
 //
-//  StoaUITests.swift
-//  StoaUITests
+//  UnshakenDailyStoicismUITests.swift
+//  UnshakenDailyStoicismUITests
 //
 //  Created by Rork on September 28, 2026.
 //
 
 import XCTest
 
-final class StoaUITests: XCTestCase {
+final class UnshakenDailyStoicismUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

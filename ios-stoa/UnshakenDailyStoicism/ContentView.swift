@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Stoa
+//  UnshakenDailyStoicism
 //
 
 import SwiftUI
