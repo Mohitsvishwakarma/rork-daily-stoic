@@ -78,7 +78,7 @@ struct ProfileView: View {
                         Text("Lifetime unlocked")
                             .font(.system(size: 16, weight: .bold))
                             .foregroundStyle(Theme.charcoal)
-                        Text("Every day of Stoa is yours forever.")
+                        Text("Every day of Unshaken is yours forever.")
                             .font(.system(size: 13))
                             .foregroundStyle(Theme.warmGray)
                     }
@@ -337,7 +337,7 @@ struct ProfileView: View {
 
     private var aboutCard: some View {
         VStack(alignment: .leading, spacing: 8) {
-            Text("About Stoa")
+            Text("About Unshaken")
                 .font(.system(size: 16, weight: .bold))
                 .foregroundStyle(Theme.charcoal)
             Text("One original reflection for every day of the year, each paired with a classical quote from Marcus Aurelius, Seneca, Epictetus and other Stoics in public-domain translations. Written to be read in two minutes and carried for a day.")
